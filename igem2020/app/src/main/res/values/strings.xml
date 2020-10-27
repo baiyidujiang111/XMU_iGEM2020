@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">igem2020</string>
+    <string name="project_name">project</string>
+    <string name="todo">load_pic</string>
+    <string name="loading">Loading...</string>
+    <string name="wait_pic">wait_pic</string>
+    <string name="login">login</string>
+    <string name="button_login">登录</string>
+    <string name="name">姓名</string>
+    <string name="password">密码</string>
+    <string name="name2" />
+    <string name="login_logo">login_logo</string>
+    <string name="check">check</string>
+    <string name="login_in">login</string>
+    <string name="password_insert">password</string>
+    <string name="name_insert">name</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="load_background">load_background</string>
+    <string name="load_coffee">load_coffee</string>
+    <string name="load_title">load_title</string>
+    <string name="back_setting">back_setting</string>
+    <string name="frame_setting">frame_setting</string>
+    <string name="confirm_setting">confirm_setting</string>
+    <string name="type_setting">type_setting</string>
+    <string name="title_setting">title_setting</string>
+    <string name="date_setting">date_setting</string>
+    <string name="location_setting">location_setting</string>
+    <string name="grey_background">grey_background</string>
+    <string name="occur_null" />
+    <string name="background_start">background_start</string>
+    <string name="set_start">set_start</string>
+    <string name="history_start">history_start</string>
+    <string name="about_us_start">about_us_start</string>
+    <string name="detection_start">detection_start</string>
+    <string name="background_check">background_check</string>
+    <string name="readybutton_check">readybutton_check</string>
+    <string name="help_check">help_check</string>
+    <string name="pic_history">pic_history</string>
+    <string name="next_history">next_history</string>
+    <string name="background_history">background_history</string>
+    <string name="back_history">back_history</string>
+    <string name="title_history">title_history</string>
+    <string name="back_aboutus">back_aboutus</string>
+    <string name="wiki_about">wiki_about</string>
+    <string name="introdution_aboutus">introdution_aboutus</string>
+    <string name="email_aboutus">email_aboutus</string>
+    <string name="wiki_aboutus">wiki_aboutus</string>
+    <string name="logo_aboutus">logo_aboutus</string>
+    <string name="titke_aboutus">titke_aboutus</string>
+    <string name="aboutus">aboutus</string>
+    <string name="_2020_igem_org_team_xmu_china">2020.igem.org/Team:XMU-China</string>
+    <string name="my_email">igem_xmu@163.com</string>
+    <string name="xmu_china_n2020">XMU-China\n2020</string>
+    <string name="back_login">back_login</string>
+    <string name="login_pic">login_pic</string>
+    <string name="wechat_login">wechat_login</string>
+    <string name="facebook_login">facebook_login</string>
+    <string name="new_user"></string>
+    <string name="middle_pic_login">middle_pic_login</string>
+    <string name="introdution">Tea is deeply rooted in Chinese culture. For a long period, a large amount of glyphosate has been used as a herbicide, which raises a severe problem of pesticide residues in tea food. XMU-China aims at developing an efficient glyphosate detection and degradation system. For the detection system, glyphosate is degraded by several enzymes and then transferred into a measurable fluorescence signal caused by the NADPH. A suicide switches controlled by arabinose is also projected. It is hoped that we could provide new ideas for the detection of pesticide residues. Taking care of the earth by tiny bacteria, we here promise a better future of tea.</string>
+    <string name="background_opreating">background_opreating</string>
+    <string name="instruction">instruction</string>
+    <string name="back_operating">back_operating</string>
+    <string name="begin_operating">begin_operating</string>
+    <string name="pic_operating">pic_operating</string>
+    <string name="text_instruction">
+        Solution A: distilled water (bottle)\n
+        Solution B: LB Broth 5mL (bottle)\n
+        Solution C: NADPH (bottle,2000μM)\n
+        Capsule A: GRHPR &amp; GOX\n
+        Capsule B: iNap\n
+        \n
+        Step 1: Take X grams of tea leaves and boil them with X mL water for X min. ( Boiled tea water)\n
+        Step 2: Open the cover of our hardware.\n
+        Step 3: Put Solution B and capsule A into container A.\n
+        Step 4: Put Solution B and capsule B into container B.\n
+        Step 5: Put boiled tea water into container C.\n
+        Step 6: Close the cover and turn on our hardware.\n
+</string>
+    <string name="background_checking">background_checking</string>
+    <string name="title_checking">title_checking</string>
+    <string name="get_report_checking">get_report_checking</string>
+    <string name="tips_checking">tips_checking</string>
+    <string name="text_checking">text_checking</string>
+    <string name="back_checking">back_checking</string>
+    <string name="pic_tips">pic_tips</string>
+    <string name="back_tips">back_tips</string>
+    <string name="title_pips">title_pips</string>
+    <string name="mypic_tips">mypic_tips</string>
+    <string name="tip1">   Tea is rich of Vitamins, which is good for our health. It is said that some kinds of tea, such as green tea, can reduce the risk of cancer. Moreover, tea can keep you slim or even help you lose weight. Most Chinese who are the first in the world having tea, are obsessed with tea. And China has a recorded history of tea of three thousand years. Around one thousand and two hundred years ago, a man named Lu Yu wrote a book called “Cha Jing”, means “the Bible of Tea”, which is the first book in the world introducing the culture of tea.\n
+The tea industry in Fujian province has a long history of more than 1000 years. It has a rich tea culture and a huge tea market. Fujian has created well-known tea categories, such as oolong tea, white tea, black tea and flower tea. Its output ranks in the forefront of China, having five first achievements in China. Fujian has 7 leading National tea enterprises, 58 provincial leading tea industrialized enterprise, and 1.6 million other kinds of tea enterprises. Now Fujian tea industry is the representation of large scale and high quality, which leads the way in China, even the whole world.
+</string>
+    <string name="tip2">   To ensure the outputs of tea in the industrialized tea production, the use of pesticides is inevitable, Glyphosate being a vivid example. Glyphosate, the most commonly used herbicide in the world, controls a wide range of plant species, mainly because plants have little capacity to metabolize (detoxify) glyphosate. Its principle of action is to inhibit the activity of EPSPS enzyme in the shikimic acid pathway, which could interfere with the synthesis of amino acids like tyrosine and tryptophan, leading to the death of plants. However, Glyphosate has been found in soils, air, water, plants and animals. Because glyphosate is water-soluble, it is easy to move with the rain. It is worth mentioning that glyphosate will be enriched in tea, affecting the quality of tea and even causing health risks: glyphosate has been listed as a "2A" carcinogen by IARC. Meanwhile, massive glyphosate use has led to world-wide evolution of glyphosate resistant (GR) weed species, including the economically damaging grass weed Echinochloa colona. In a word, either considering environmental or health problems, glyphosate problem in tea industries needs to be put on the agenda.</string>
+    <string name="next_tips">next_tips</string>
+    <string name="pic_report">pic_report</string>
+    <string name="download_report">download_report</string>
+    <string name="share_report">share_report</string>
+    <string name="background_report">background_report</string>
+    <string name="title_report">title_report</string>
+    <string name="back_report">back_report</string>
+    <string name="web">web</string>
+    <string name="text_report">The concentration of Glyphosate in your sample is:\n\n
+            XX.XX  mg/kg\n\n
+        Not exceeding the standard\n\n
+        You can download or share detailed reports
+</string>
+    <string name="ins_more">ins_more</string>
+</resources>
